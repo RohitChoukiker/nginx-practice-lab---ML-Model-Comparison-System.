@@ -29,7 +29,7 @@ Model Comparison
 
 ML-Model-Comparison-System
 
-titanic_ml_project.py  
+main.py  
 train.csv  
 README.md  
 
