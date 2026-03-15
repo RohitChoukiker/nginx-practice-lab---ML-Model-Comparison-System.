@@ -1,4 +1,4 @@
-# Titanic Survival Prediction — ML Model Comparison
+# Titanic Survival Prediction - ML Model Comparison
 
 ## Project Overview
 
